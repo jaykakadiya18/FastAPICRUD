@@ -24,3 +24,4 @@ This is a simple example of a FastAPI application demonstrating user authenticat
 1. Clone the repository:
 
 ```bash
+https://github.com/jaykakadiya18/fastTest.git
